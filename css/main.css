@@ -93,17 +93,16 @@ footer {
 
   #column-1 {
     background-color:#591e34 ;
+    width: 33.3%;
   }
 
   #column-2 {
     background-color:#563f75;
+    width: 33.3%;
   }
 
   #column-3 {
     background-color:#591e34 ;
-  }
-
-  .col-3 {
     width: 33.3%;
   }
 
